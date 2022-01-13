@@ -1,0 +1,26 @@
+_repo: Lives-of-Fair-and-Gallant-Ladies-Vol-2_67026
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brantôme, Seigneur de
+    gutenberg_agent_id: '54084'
+    url: http://www.gutenberg.org/2009/agents/54084
+description: ''
+gutenberg_issued: '2021-12-27'
+identifiers:
+  gutenberg: '67026'
+language: en
+pgterms:marc905: 20160917132436brantme
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Chris Curnow, Quentin Campbell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :The Alexandrian Society, Inc,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lives of Fair and Gallant Ladies. Vol 2.
+url: http://www.gutenberg.org/ebooks/67026
