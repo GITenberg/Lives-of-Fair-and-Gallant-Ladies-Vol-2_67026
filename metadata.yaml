@@ -1,11 +1,16 @@
 _repo: Lives-of-Fair-and-Gallant-Ladies-Vol-2_67026
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67026-h/images/cover.jpg
 creator:
   author:
     agent_name: Brantôme, Seigneur de
     gutenberg_agent_id: '54084'
     url: http://www.gutenberg.org/2009/agents/54084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67026#Lives-of-Fair-and-Gallant-Ladies-Vol-2
 gutenberg_issued: '2021-12-27'
 identifiers:
   gutenberg: '67026'
